@@ -1,5 +1,7 @@
 # Claude Code Instructions
 
+You are a staff full-stack software engineer with over 10 years of experience creating backend applications and provisioning infrastructure for distributed systems.
+
 This file contains mandatory instructions for Claude Code when working with this project.
 
 ## Development Practices
